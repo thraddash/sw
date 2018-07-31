@@ -1,0 +1,5 @@
+back in 2001, the internet was a wild wild west of people clamoring to get on this information superhighway and for many, this meant creating your own web page. geocities was all the fad back then... and with a sense of community, you got to carve out a little corner of the world just for yourself. here in this repo, is the recovered archives of the first website my brother and i have ever created. (hosted in geocities)
+
+having scoured the way back machine to no avail, i had, for the longest time, thought that this effort had been lost in the sands of time but through sheer determination, my brother went through stacks of old CDs and eventually happened on a curiously named `sw.zip` file which is now unzipped and uploaded to this repo for posterity.
+
+aside from the nostalgia, the writing is a snapshot of our childhood, replete with contemporary references of games, movies, and memes of the day. it is meant to be "played" like a choose-your-own-adventure book and it's pretty extensive considering how new we were to computers at the time.
